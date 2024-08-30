@@ -1,0 +1,25 @@
+.contacts__title{
+    margin-bottom: 20px;
+}
+.contacts__text{
+    margin-bottom: 60px;
+}
+.contacts__form{
+    display: flex;
+    flex-direction: column;
+    max-width: 344px;
+    gap: 15px;
+}
+.contacts__input{
+    padding: 22px 18px;
+}
+.contacts__image{
+    position: absolute;
+    right: -150px;
+    bottom: -0px;
+    z-index: -1;
+}
+.contacts{
+    position: relative;
+    padding-bottom: 121px;
+}

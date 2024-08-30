@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":"AAAA,EACI","sources":["webpack://penguin-webpack/./src/scss/global/settings.scss"],"sourcesContent":["*{\r\n    margin: 0;\r\n}"],"names":[],"sourceRoot":""}
